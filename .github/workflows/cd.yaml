@@ -66,4 +66,4 @@ jobs:
       policy_assignments: ${{ inputs.policy_assignments }}
       subscription_placement: ${{ inputs.subscription_placement }}
       connectivity_resource_group: ${{ inputs.connectivity }}
-      hub_and_spoke_multi_region: ${{ inputs.connectivity }}
+      hub_and_spoke: ${{ inputs.connectivity }}
