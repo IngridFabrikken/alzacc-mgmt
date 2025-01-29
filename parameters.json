@@ -4,19 +4,17 @@
     "2",
     "3"
   ],
-  "AVAILABILITY_ZONES_SECONDARY": [
-    null
-  ],
+  "AVAILABILITY_ZONES_SECONDARY": [],
   "CONNECTIVITY_RESOURCE_GROUP": "rg-alzacc-connectivity",
   "CONNECTIVITY_SUBSCRIPTION_ID": "5fa9c661-ce95-49a1-953b-343fa9801fb3",
   "IDENTITY_SUBSCRIPTION_ID": "781206c3-535f-4600-a727-61079627b375",
   "LOCATION": "swedencentral",
   "LOGGING_RESOURCE_GROUP": "rg-alzacc-logging",
   "MANAGEMENT_SUBSCRIPTION_ID": "adf3f8ca-c29e-4476-b936-7c6c804babcd",
-  "NETWORK_TYPE": "hubNetworkingMultiRegion",
+  "NETWORK_TYPE": "hubNetworking",
   "MANAGEMENT_GROUP_ID": "alzacc",
   "PREFIX": "alzacc",
   "RELEASE_VERSION": "v0.20.2",
   "ROOT_PARENT_MANAGEMENT_GROUP_ID": "",
-  "SECONDARYLOCATION": "swedensouth"
+  "SECONDARYLOCATION": ""
 }
