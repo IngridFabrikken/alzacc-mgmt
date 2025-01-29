@@ -6,7 +6,7 @@
       "value": "swedencentral"
     },
     "parSecondaryLocation": {
-      "value": "swedensouth"
+      "value": ""
     },
     "parCompanyPrefix": {
       "value": "alzacc"
@@ -15,7 +15,7 @@
       "value": "alz-hub-swedencentral"
     },
     "parHubNetworkNameSecondaryLocation": {
-      "value": "alz-hub-swedensouth"
+      "value": "alz-hub-"
     },
     "parHubNetworkAddressPrefix": {
       "value": "10.20.0.0/16"
@@ -107,7 +107,7 @@
       "value": "alz-bastion-swedencentral"
     },
     "parAzBastionNameSecondaryLocation": {
-      "value": "alz-bastion-swedensouth"
+      "value": "alz-bastion-"
     },
     "parAzBastionSku": {
       "value": "Standard"
@@ -125,7 +125,7 @@
       "value": "nsg-AzureBastionSubnet-swedencentral"
     },
     "parAzBastionNsgNameSecondaryLocation": {
-      "value": "nsg-AzureBastionSubnet-swedensouth"
+      "value": "nsg-AzureBastionSubnet-"
     },
     "parDdosEnabled": {
       "value": true
@@ -137,7 +137,7 @@
       "value": true
     },
     "parDdosPlanNameSecondaryLocation": {
-      "value": "alz-ddos-plan-swedensouth"
+      "value": "alz-ddos-plan-"
     },
     "parAzFirewallEnabled": {
       "value": true
@@ -165,10 +165,10 @@
       "value": true
     },
     "parAzFirewallNameSecondaryLocation": {
-      "value": "alz-azfw-swedensouth"
+      "value": "alz-azfw-"
     },
     "parAzFirewallPoliciesNameSecondaryLocation": {
-      "value": "alz-azfwpolicy-swedensouth"
+      "value": "alz-azfwpolicy-"
     },
     "parAzFirewallTierSecondaryLocation": {
       "value": "Standard"
@@ -177,9 +177,7 @@
       "value": "Alert"
     },
     "parAzFirewallAvailabilityZonesSecondaryLocation": {
-      "value": [
-        null
-      ]
+      "value": []
     },
     "parAzErGatewayAvailabilityZones": {
       "value": [
@@ -196,14 +194,10 @@
       ]
     },
     "parAzErGatewayAvailabilityZonesSecondaryLocation": {
-      "value": [
-        null
-      ]
+      "value": []
     },
     "parAzVpnGatewayAvailabilityZonesSecondaryLocation": {
-      "value": [
-        null
-      ]
+      "value": []
     },
     "parAzFirewallDnsProxyEnabled": {
       "value": true
@@ -212,7 +206,7 @@
       "value": []
     },
     "parHubRouteTableNameSecondaryLocation": {
-      "value": "alz-hub-routetable-swedensouth"
+      "value": "alz-hub-routetable-"
     },
     "parDisableBgpRoutePropagationSecondaryLocation": {
       "value": false
