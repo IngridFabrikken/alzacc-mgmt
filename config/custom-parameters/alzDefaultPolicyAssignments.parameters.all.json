@@ -63,7 +63,7 @@
       "value": "alz-automation-account"
     },
     "parMsDefenderForCloudEmailSecurityContact": {
-      "value": "ingrid.finnoy@microsoft.com"
+      "value": "ingrid.finnoy@gmail.com"
     },
     "parDdosProtectionPlanId": {
       "value": "/subscriptions/5fa9c661-ce95-49a1-953b-343fa9801fb3/resourceGroups/rg-alzacc-connectivity/providers/Microsoft.Network/ddosProtectionPlans/alz-ddos-plan"
